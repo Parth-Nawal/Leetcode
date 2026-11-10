@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Nawal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth-Nawal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Parth-Nawal/Leetcode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Parth-Nawal/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -20,4 +21,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Nawal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Parth-Nawal/Leetcode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth-Nawal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
