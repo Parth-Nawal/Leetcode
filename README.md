@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Nawal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Parth-Nawal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Parth-Nawal/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Parth-Nawal/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Parth-Nawal/Leetcode/tree/master/0344-reverse-string) |
@@ -38,5 +39,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Parth-Nawal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Parth-Nawal/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
